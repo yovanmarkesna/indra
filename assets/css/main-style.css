@@ -436,7 +436,7 @@ border-color: #285e8e;
 	  font-size: 11px;
 	  padding: .2rem .8rem;
 	  margin-bottom: 0;
-	  padding-bottom: 6px;
+	  padding-bottom: 0px;
 	  border-radius: 3px;
 	  
 	color: #F3F3F3 !important;
@@ -448,11 +448,13 @@ border-color: #285e8e;
 	  background-color: #F3F3F3;
 	  border-color: #285e8e; 
 	}
+	.home-hero .matrerial-icon{
+	  padding-top: -20px;
+	}
 	.home-hero .icon-section{
 	  padding-right: 1px;
 	  max-height: 20px;
 	  width: auto;
-	  margin-top: -10px;
 	}
 	.home-hero .hero-img img{
 	  max-width: 90%;
