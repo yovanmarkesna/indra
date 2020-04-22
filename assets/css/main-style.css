@@ -423,7 +423,7 @@ border-color: #285e8e;
 	.home-hero .hero-content h1 {
 	  font-family: 'Circular Std Black';
 	  color:#262626 !important;
-	  font-size: 1.2rem;
+	  font-size: 18px; /* 1.2rem; */
 	  line-height: normal;
 	  margin-bottom: 6px;
 	}
@@ -436,6 +436,12 @@ border-color: #285e8e;
 	  font-size: 11px;
 	  padding: .2rem .8rem;
 	  margin-bottom: 0px;
+	  border-radius: .3rem;
+	  
+color: #F3F3F3 !important;
+border-color: #285e8e;
+background-color: #285e8e;
+margin-bottom: 0px;
 	}
 	.home-hero .get-started:hover, .home-hero .get-started:focus, .home-hero .get-started:active {
 	  color: #285e8e !important;
@@ -456,7 +462,7 @@ border-color: #285e8e;
 	}
 	.home-hero .hero-content .hero-text .break-line:before{
 		content: "\A";
-		white-space: pre-line;
+		white-space: normal;
 	}
 }
 
