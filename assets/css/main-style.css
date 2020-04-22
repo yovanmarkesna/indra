@@ -457,9 +457,9 @@ border-color: #285e8e;
 	.home-hero .hero-img img{
 	  max-width: 90%;
 	  height: auto;
-	  padding: 0px !important;
-	  margin: 0px !important;
-	  margin-top:-50px;
+	  padding: 0px;
+	  margin: 0px;
+	  margin-top:-50px !important;
 	}
 	.home-hero .hero-content .hero-text .break-line:before{
 		content: "\A";
