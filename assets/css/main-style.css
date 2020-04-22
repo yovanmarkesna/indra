@@ -436,7 +436,7 @@ border-color: #285e8e;
 	  font-size: 11px;
 	  padding: .2rem .8rem;
 	  margin-bottom: 0px;
-	  border-radius: 20px;
+	  border-radius: 3px;
 	  
 	color: #F3F3F3 !important;
 	border-color: #285e8e;
@@ -449,7 +449,7 @@ border-color: #285e8e;
 	}
 	.home-hero .icon-section{
 	  padding-right: 1px;
-	  max-height: 25px;
+	  max-height: 20px;
 	  width: auto;
 	  margin-top: -5px;
 	}
