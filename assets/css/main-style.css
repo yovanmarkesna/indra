@@ -403,10 +403,12 @@ border-color: #285e8e;
 		background-repeat: no-repeat;
 		background-position: top center;
 		background-size: contain;
-		height: 120px;
+		height: 65px;
+		min-width:auto;
+		margin-top: -65px;
 	}
 	.home-hero{
-		background: #F3F3F3;
+		background: #F3F3F3 !important; /* Highlight */
 	}
 	.home-hero .hero-content .kominfo{
 	  padding-top: 0px !important;
