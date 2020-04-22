@@ -405,7 +405,7 @@ border-color: #285e8e;
 		background-size: contain;
 		height: 55px;
 		min-width:auto;
-		margin-top: -55px;
+		margin-top: -50px;
 	}
 	.home-hero{
 		background: #F3F3F3 !important; /* Highlight */
