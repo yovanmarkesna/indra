@@ -448,8 +448,8 @@ border-color: #285e8e;
 	  background-color: #F3F3F3;
 	  border-color: #285e8e; 
 	}
-	.home-hero .matrerial-icon{
-	  padding-top: -20px;
+	.home-hero .hero-content .matrerial-icon{
+	  margin-top: -20px;
 	}
 	.home-hero .icon-section{
 	  padding-right: 1px;
