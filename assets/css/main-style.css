@@ -423,7 +423,7 @@ border-color: #285e8e;
 	.home-hero .hero-content h1 {
 	  font-family: 'Circular Std Black';
 	  color:red !important;
-	  font-size: 15px; /* 1.2rem; */
+	  font-size: 14px; /* 1.2rem; */
 	  line-height: normal;
 	  margin-bottom: 6px;
 	}
@@ -436,7 +436,7 @@ border-color: #285e8e;
 	  font-size: 11px;
 	  padding: .2rem .8rem;
 	  margin-bottom: 0px;
-	  border-radius: .3rem;
+	  border-radius: .3rem !important;
 	  
 color: #F3F3F3 !important;
 border-color: #285e8e;
