@@ -410,6 +410,7 @@ border-color: #285e8e;
 	}
 	.home-hero{
 		background: #F3F3F3;
+		padding-bottom:200px;
 	}
 	.home-hero .hero-content .kominfo{
 	  padding-top: 0px !important;
