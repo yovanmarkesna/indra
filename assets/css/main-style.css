@@ -458,6 +458,7 @@ border-color: #285e8e;
 	  height: auto;
 	  padding: 0px !important;
 	  margin: 0px !important;
+	  margin-top:-50px;
 	}
 	.home-hero .hero-content .hero-text .break-line:before{
 		content: "\A";
