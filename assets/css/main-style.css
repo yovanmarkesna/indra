@@ -537,7 +537,7 @@ border-color: #285e8e;
 		font-size:normal;
 	}
 	.home-rate .hr-content .hr-body {
-		padding-left:150px;
+		margin-left:50px;
 	}
 }
 
