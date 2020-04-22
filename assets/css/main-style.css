@@ -429,7 +429,7 @@ border-color: #285e8e;
 	.home-hero .hero-content .hero-text {
 	  font-size: 11px;
 	  line-height: normal;
-	  margin-bottom : 8px;
+	  margin-bottom : 5px;
 	}
 	.home-hero .hero-content .get-started{
 	  font-size: 11px;
@@ -457,7 +457,7 @@ border-color: #285e8e;
 	  height: auto;
 	  padding: 0px !important;
 	  margin: 0px !important;
-	  padding-top:10px !important;
+	  padding-top:30px !important;
 	}
 	.home-hero .hero-content .hero-text .break-line:before{
 		content: "\A";
