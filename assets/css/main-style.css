@@ -460,8 +460,7 @@ border-color: #285e8e;
 	  height: auto;
 	  padding: 0px !important;
 	  margin: 0px !important;
-	  padding-top:40px !important;
-	  margin-top:0px !important;
+	  padding-top:30px !important;
 	}
 	.home-hero .hero-content .hero-text .break-line:before{
 		content: "\A";
