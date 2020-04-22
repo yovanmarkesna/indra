@@ -429,13 +429,14 @@ border-color: #285e8e;
 	.home-hero .hero-content .hero-text {
 	  font-size: 11px;
 	  line-height: normal;
-	  margin-bottom : 6px;
+	  margin-bottom : 0px;
+	  padding-bottom: 6px;
 	}
 	.home-hero .hero-content .get-started{
 	  font-size: 11px;
 	  padding: .2rem .8rem;
-	  margin-bottom: 6px;
-	  padding-bottom: 0px;
+	  margin-bottom: 0px;
+	  padding-bottom: 6px;
 	  border-radius: 3px;
 	  
 	color: #F3F3F3 !important;
