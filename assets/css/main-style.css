@@ -1099,6 +1099,9 @@ border-color: #285e8e;
 	height: auto;
 	padding-top: 20px !important;
 }
+.home-access .hacc-content{
+	text-align: right;
+}
 .home-access .hacc-content h4{
 	font-size:25px;
 	color: #262626 !important;
@@ -1136,6 +1139,9 @@ border-color: #285e8e;
 	.home-access{
 		background-color: #F3F3F3 !important; /* Highlight */
 		padding-bottom: 0px;
+	}
+	.home-access .hacc-content{
+		text-align: right;
 	}
 	.home-access .hacc-img img{
 		vertical-align:center;
@@ -1180,6 +1186,9 @@ border-color: #285e8e;
 		background-color: #F3F3F3 !important; /* Highlight */
 		padding-bottom: 0px;
 	}
+	.home-access .hacc-content{
+		text-align: right;
+	}
 	.home-access .hacc-img img{
 		max-width: 100%;
 		height: auto;
@@ -1222,46 +1231,57 @@ border-color: #285e8e;
 @media (max-width: 575px) {
 	.home-access{
 		background-color: #F3F3F3 !important; /* Highlight */
-		padding:0px;
-		margin:0px;
-		margin-top: -50px;
-		padding-bottom: 20px;
+		padding-bottom:25px;
+		padding-top:5px;
+		margin-bottom:0;
+		margin-top:0;
+	}
+	.home-access .hacc-img{
+		min-width:100%;
+		margin: auto;
+		text-align: center;
 	}
 	.home-access .hacc-content{
-		padding-left: 10px !important;
+		min-width:100%;
+		margin: auto;
+		text-align: center;
 	}
 	.home-access .hacc-img img{
 		max-width: 100%;
 		width: auto;
-		padding-top: 0px !important;
+		margin:0;
 	}
 	.home-access .hacc-content h4{
 		color:#262626 !important;
-		font-size: 15px;
-		line-height: 18px;
-		padding-top: 32px !important;
+		padding-top: 17px;
+		font-size: 20px;
+		line-height: normal;
 	}
 	.home-access .hacc-content .hacc-text{
 		color:#262626 !important;
-		font-size: 11px;
-		line-height: 15px;
-		padding-top: 1px;
-		padding-bottom: 4px;
+		font-size: 15px;
+		line-height: normal;
+		padding-top: 5px;
+		padding-bottom: 7px;
 	}
 	.home-access .hacc-content .hacc-more{
-		font-size: 11px;
-		padding: .3rem 1.5rem;
-		border-width: .05rem;
+		font-size: 15px;
+		padding: .3rem 1.2rem;
+		border-width: .1rem;
 		border-color: #2F569B;
-		background-color:transparent;
-		border-radius: .3rem;
+		background-color:#F3F3F3 !important;
+		border-radius: .4rem !important;
 	}
 	.home-access .hacc-more:hover, .home-access .hacc-more:focus, .home-access .hacc-more:active {
 		color: #F3F3F3 !important;
-		background-color: #2F569B;
-		border-color: #F3F3F3; 
+		background-color: #2F569B !important;
+		border-color: #F3F3F3 !important;
 	}
 	.home-access .hacc-content .hacc-text .break-line:before{
+		content: "\A";
+		white-space: normal;
+	}
+	.home-access .hacc-content .hacc-title .break-line:before{
 		content: "\A";
 		white-space: normal;
 	}
