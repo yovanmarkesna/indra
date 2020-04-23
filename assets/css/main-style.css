@@ -699,7 +699,7 @@ border-color: #285e8e;
 	.home-about .ha-content .ha-more{
 		font-size: 15px;
 		padding: .4rem 1.2rem;
-		border-width: .1rem;
+		border-width: 1px;
 		border-color: #F3F3F3 !important;
 		background-color: #2F569B !important; /* Seconday (BIRU) */
 	}
