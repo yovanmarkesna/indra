@@ -830,7 +830,7 @@ border-color: #285e8e;
 @media (max-width: 575px) {
 	.home-features {
 		margin:0;
-		padding-top: 0px;
+		padding-top: -100px;
 		padding-bottom:0px;	
 	}
 
