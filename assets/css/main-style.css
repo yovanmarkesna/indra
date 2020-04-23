@@ -741,6 +741,7 @@ border-color: #285e8e;
 		padding-top: 10px;
 		color: #F3F3F3 !important;
 		font-size: 20px;
+		line-height: normal;
 	}
 	.home-about .ha-content .ha-text{
 		color:#F3F3F3 !important;
