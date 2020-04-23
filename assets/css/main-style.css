@@ -821,18 +821,21 @@ border-color: #285e8e;
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 	.home-features {
-		padding-top: 10px;
-		padding-bottom:10px;
+		margin:0;
+		padding:0;
+		margin-top: -30px;
+		margin-bottom:-40px;	
 	}
 	.home-features .hf-body h2 {
-		margin-bottom:2px;
-		font-size: 22px;
+		margin-bottom:4px;
+		font-size: 24px;
 	}
 	.home-features .hf-body .hf-col{
-		padding-bottom: 5px;
+		padding-bottom: 13px;
 	}
 	.home-features .hf-body p {
-		font-size: 11px;
+		font-size: 15px;
+
 	}
 }
 
@@ -843,7 +846,6 @@ border-color: #285e8e;
 		margin-top: -30px;
 		margin-bottom:-40px;	
 	}
-
 	.home-features .hf-body h2 {
 		margin-bottom:4px;
 		font-size: 24px;
