@@ -537,6 +537,9 @@ border-color: #285e8e;
 		padding-bottom: 0px;
 		margin:0; 
 	}
+	.home-rate .hr-card:last-of-type{
+		padding-bottom: 0px;
+	}
 	.home-rate .hr-card{
 		padding-bottom: 25px;
 	}
