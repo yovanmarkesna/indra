@@ -420,7 +420,7 @@ border-color: #285e8e;
 	}	
 	.home-hero .hero-content h1 {
 	  font-family: 'Circular Std Black';
-	  color:red !important;
+	  color: #2F569B !important;
 	  font-size: 14px; /* 1.2rem; */
 	  line-height: normal;
 	  margin-bottom: 6px;
@@ -631,7 +631,7 @@ border-color: #285e8e;
 	.home-about .ha-img img{
 		max-width: 80%;
 		width: auto;
-		padding-top:20px;
+		padding-top:15px;
 	}
 	.home-about .ha-content h4{
 		padding-top: 15px;
