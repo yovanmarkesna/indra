@@ -722,6 +722,7 @@ border-color: #285e8e;
 	.home-about{
 		background-color: #2F569B !important; /* Seconday (BIRU) */
 		padding-bottom:20px;
+		padding-top:15px;
 		margin-bottom:0;
 	}
 	.home-about .ha-img{
