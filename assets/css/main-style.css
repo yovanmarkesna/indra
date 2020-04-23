@@ -699,7 +699,7 @@ border-color: #285e8e;
 	.home-about .ha-content .ha-more{
 		font-size: 15px;
 		padding: .4rem 1.2rem;
-		border-width: 1px;
+		border-width: .1rem;
 		border-color: #F3F3F3 !important;
 		background-color: #2F569B !important; /* Seconday (BIRU) */
 	}
@@ -755,7 +755,7 @@ border-color: #285e8e;
 		padding-bottom: 3px;
 	}
 	.home-about .ha-content .ha-more{
-		font-size: 15px;;
+		font-size: 15px;
 		padding: .3rem 1.2rem;
 		border-width: .1rem;
 		border-color: #F3F3F3 !important;
@@ -898,6 +898,7 @@ border-color: #285e8e;
 }
 .home-help .hh-content .hh-text{
 	font-family: 'Circular Std Book';
+	text-align: left;
 	color: #F3F3F3 !important;
 	font-size: 14px;
 	padding-top: 9px;
@@ -940,6 +941,7 @@ border-color: #285e8e;
 	}
 	.home-help .hh-content .hh-text{
 		color: #F3F3F3 !important;
+		text-align: left;
 		font-size: 13px;
 		line-height: 17px;
 		padding-top: 8px;
@@ -985,6 +987,7 @@ border-color: #285e8e;
 		line-height: 22px;
 	}
 	.home-help .hh-content .hh-text{
+		text-align: left;
 		color: #F3F3F3 !important;
 		font-size: 11px;
 		padding-top: 4px;
@@ -1012,38 +1015,54 @@ border-color: #285e8e;
 	.home-help{
 		background-color: #EFBB29 !important; /* Primary (KUNING) */
 	}
+	.home-help .hh-img{
+		min-width:100%;
+		margin: auto;
+		text-align: center;
+	}
+	.home-help .hh-content{
+		min-width:100%;
+		margin: auto;
+		text-align: center;
+	}
 	.home-help .hh-img img{
-		max-width: 100%;
-		width: auto;
-		padding-top:20px;
+		max-width: 35%;
+		height: auto;
+		margin:0;
+		padding-top: 12px;
+		padding-bottom: 12px;
 	}
 	.home-help .hh-content h4{
-		margin-top: -5px;
+		padding-top: 10px;
 		color: #F3F3F3 !important;
-		font-size: 14px;
-		line-height: 19px;
+		font-size: 20px;
+		line-height: normal;
 	}
 	.home-help .hh-content .hh-text{
 		color:#F3F3F3 !important;
-		font-size: 11px;
-		line-height: 15px;
+		font-size: 15px;
+		line-height: normal;
 		padding-top: 5px;
 		padding-bottom: 3px;
 	}
 	.home-help .hh-content .hh-more{
-		font-size: 11px;
-		padding: .2rem 0.8rem;
-		border-width: .08rem;
-		border-color: #F3F3F3;
-		background-color:transparent;
-		border-radius: .3rem;
+		font-size: 15px;
+		padding: .3rem 1.2rem;
+		border-width: .1rem;
+		border-color: #F3F3F3 !important;
+		background-color: #EFBB29 !important; /* Primary (KUNING) */
+		border-radius: .3rem !important;
 	}
 	.home-help .hh-more:hover, .home-help .hh-more:focus, .home-help .hh-more:active {
-		color: #285e8e !important;
-		background-color: #F3F3F3;
-		border-color: #F3F3F3;
+		color: #EFBB29 !important;
+		background-color: #F3F3F3 !important;
+		border-color: #F3F3F3 !important;
 	}
 	.home-help .hh-content .hh-text .break-line:before{
+		content: "\A";
+		white-space: normal;
+	}
+	.home-about .ha-content .ha-title .break-line:before{
 		content: "\A";
 		white-space: normal;
 	}
