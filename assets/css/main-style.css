@@ -1257,6 +1257,7 @@ border-color: #285e8e;
 		padding-top: 100px;
 		font-size: 20px;
 		line-height: normal;
+		margin-top:0;
 	}
 	.home-access .hacc-content .hacc-text{
 		color:#262626 !important;
