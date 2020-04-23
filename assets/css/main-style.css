@@ -351,7 +351,7 @@ border-color: #285e8e;
 	.home-hero .hero-content .kominfo{
 	  padding-top: 0px !important;
 	  padding-bottom: 0px;
-	  margin-top:-25px;
+	  margin-top:-55px;
 	}
 	.home-hero .hero-content .kominfo img{
 	  max-height: 40px;
@@ -385,7 +385,7 @@ border-color: #285e8e;
 	  width: auto;
 	}
 	.home-hero .hero-img img{
-	  max-width: 95%;
+	  max-width: 90%;
 	  height: auto;
 	  padding: 0px !important;
 	  margin: 0px !important;
