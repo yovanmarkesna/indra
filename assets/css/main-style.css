@@ -750,7 +750,7 @@ border-color: #285e8e;
 	.home-about .ha-content .ha-more{
 		font-size: normal;
 		padding: .3rem 1.2rem;
-		border-width: .05rem;
+		border-width: .8rem;
 		border-color: #F3F3F3 !important;
 		background-color: #2F569B !important; /* Seconday (BIRU) */
 	}
