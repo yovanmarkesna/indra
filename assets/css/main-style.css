@@ -685,7 +685,7 @@ border-color: #285e8e;
 	}
 	.home-about .ha-content h4{
 		padding-top: 25px;
-		color: red !important;
+		color: #F3F3F3 !important;
 		font-size: 18px;
 		line-height: 22px;
 	}
@@ -831,7 +831,7 @@ border-color: #285e8e;
 	.home-features {
 		margin:0;
 		padding:0;
-		margin-top: -50px;
+		margin-top: -30px;
 		margin-bottom:0px;	
 	}
 
@@ -840,10 +840,9 @@ border-color: #285e8e;
 		font-size: 24px;
 	}
 	.home-features .hf-body .hf-col{
-		padding-bottom: 10px;
-		font-size: normal;
+		padding-bottom: 6px;
 	}
-	.home-features .hf-body p {
+	.home-features .hf-body p, .home-features .hf-body .hf-col p {
 		font-size: normal;
 		line-height: normal;
 	}
