@@ -576,10 +576,12 @@ border-color: #285e8e;
     background-position: top center;
     background-size: contain;
     height: 120px;
+	border:1px solid red;
 }
 
 .home-about{
 	background-color: #2F569B !important; /* Seconday (BIRU) */
+	border:1px solid black;
 }
 .home-about .ha-content{
 	text-align: right;
@@ -871,6 +873,7 @@ border-color: #285e8e;
     background-position: bottom center;
     background-size: contain;
     height: 120px;
+	border:1px solid red;
 }
 .home-help-down{
 	/* H: 140 */
