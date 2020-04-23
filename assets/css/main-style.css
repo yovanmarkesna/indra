@@ -730,8 +730,8 @@ border-color: #285e8e;
 	.home-about .ha-content h4{
 		padding-top: 10px;
 		color: #F3F3F3 !important;
-		font-size: normal;
-		line-height: normal;
+		font-size: 16px;
+		line-height: 20px;
 	}
 	.home-about .ha-content .ha-text{
 		color:#F3F3F3 !important;
