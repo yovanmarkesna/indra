@@ -804,8 +804,8 @@ border-color: #285e8e;
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.home-features {
-		padding-top: 80px;
-		padding-bottom: 80px;
+		padding-top: 30px;
+		padding-bottom: 20px;
 	}
 	.home-features .hf-body h2 {
 		margin-bottom:4px;
@@ -823,8 +823,8 @@ border-color: #285e8e;
 	.home-features {
 		margin:0;
 		padding:0;
-		margin-top: -30px;
-		margin-bottom:-40px;	
+		margin-top: -10px;
+		margin-bottom:-15px;	
 	}
 	.home-features .hf-body h2 {
 		margin-bottom:4px;
