@@ -717,7 +717,8 @@ border-color: #285e8e;
 @media (max-width: 575px) {
 	.home-about{
 		background-color: #2F569B !important; /* Seconday (BIRU) */
-		
+		padding-bottom:0;
+		margin-bottom:0;
 	}
 	.home-about .ha-img{
 		min-width:100%;
@@ -822,7 +823,7 @@ border-color: #285e8e;
 		padding-bottom: 5px;
 	}
 	.home-features .hf-body p {
-		font-size: 11px;
+		font-size: normal;
 	}
 }
 
@@ -841,7 +842,7 @@ border-color: #285e8e;
 		padding-bottom: 5px;
 	}
 	.home-features .hf-body p {
-		font-size: 11px;
+		font-size: normal;
 	}
 }
 
