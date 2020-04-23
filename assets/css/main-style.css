@@ -522,9 +522,6 @@ border-color: #285e8e;
 		padding-bottom: 0px;
 		margin:0; 
 	}
-	.home-rate .hr-card:last-of-type{
-		margin-bottom: -50px;
-	}
 	.home-rate .hr-card{
 		padding-bottom: 25px;
 	}
@@ -685,7 +682,7 @@ border-color: #285e8e;
 	}
 	.home-about .ha-content h4{
 		padding-top: 25px;
-		color: #F3F3F3 !important;
+		color: red !important;
 		font-size: 17px;
 		line-height: 20px;
 	}
