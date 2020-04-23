@@ -686,18 +686,18 @@ border-color: #285e8e;
 	.home-about .ha-content h4{
 		padding-top: 25px;
 		color: #F3F3F3 !important;
-		font-size: 18px;
-		line-height: 22px;
+		font-size: 22px;
+		line-height: normal;
 	}
 	.home-about .ha-content .ha-text{
 		color: #F3F3F3 !important;
-		font-size: normal;
+		font-size: 15px;
 		line-height: normal;
 		padding-top: 5px;
 		padding-bottom: 2px;
 	}
 	.home-about .ha-content .ha-more{
-		font-size: normal;
+		font-size: 15px;
 		padding: .4rem 1.2rem;
 		border-width: .06rem;
 		border-color: #F3F3F3 !important;
@@ -709,6 +709,10 @@ border-color: #285e8e;
 		border-color: #F3F3F3 !important;
 	}
 	.home-about .ha-content .break-line:before{
+		content: "\A";
+		white-space: normal;
+	}
+	.home-about .ha-content .ha-title .break-line:before{
 		content: "\A";
 		white-space: normal;
 	}
