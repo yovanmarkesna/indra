@@ -683,7 +683,7 @@ border-color: #285e8e;
 	.home-about .ha-content h4{
 		padding-top: 25px;
 		color: red !important;
-		font-size: 17px;
+		font-size: 18px;
 		line-height: normal;
 	}
 	.home-about .ha-content .ha-text{
@@ -726,7 +726,6 @@ border-color: #285e8e;
 		margin: auto;
 		text-align: center;
 	}
-	
 	.home-about .ha-img img{
 		max-width: 30%;
 		height: auto;
