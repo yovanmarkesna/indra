@@ -836,14 +836,14 @@ border-color: #285e8e;
 	}
 
 	.home-features .hf-body h2 {
-		padding-bottom:2px;
+		padding-bottom:1px;
 		font-size: 24px;
 	}
 	.home-features .hf-body .hf-col{
-		padding-bottom: 6px;
+		padding-bottom: 5px;
 	}
 	.home-features .hf-body p, .home-features .hf-body .hf-col p {
-		font-size: normal;
+		font-size: 13px;
 		line-height: normal;
 	}
 }
