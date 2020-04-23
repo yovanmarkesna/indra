@@ -755,9 +755,9 @@ border-color: #285e8e;
 		background-color: #2F569B !important; /* Seconday (BIRU) */
 	}
 	.home-about .ha-more:hover, .home-about .ha-more:focus, .home-about .ha-more:active {
-		color: #F3F3F3 !important;
-		background-color: #F3F3F3;
-		border-color: #F3F3F3;
+		color: #2F569B !important;
+		background-color: #F3F3F3 !important;
+		border-color: #F3F3F3 !important;
 	}
 	.home-about .ha-content .ha-text .break-line:before{
 		content: "\A";
