@@ -576,12 +576,10 @@ border-color: #285e8e;
     background-position: top center;
     background-size: contain;
     height: 120px;
-	border:1px solid red;
 }
 
 .home-about{
 	background-color: #2F569B !important; /* Seconday (BIRU) */
-	border:1px solid black;
 }
 .home-about .ha-content{
 	text-align: right;
@@ -873,7 +871,6 @@ border-color: #285e8e;
     background-position: bottom center;
     background-size: contain;
     height: 120px;
-	border:1px solid red;
 }
 .home-help-down{
 	/* H: 140 */
@@ -883,12 +880,10 @@ border-color: #285e8e;
     background-position: top center;
     background-size: contain;
     height: 120px;
-	border:1px solid red;
 }
 
 .home-help{
 	background-color: #EFBB29 !important; /* Primary (KUNING) */
-	border:1px solid black;
 }
 .home-help .hh-img img{
 	max-width: 100%;
@@ -1235,37 +1230,30 @@ border-color: #285e8e;
 
 @media (max-width: 575px) {
 	.home-access{
-		margin:0;
-		padding:0;		
 		background-color: #F3F3F3 !important; /* Highlight */
-		padding-bottom:25px;
-		padding-top:5px;
-		margin-bottom:0;
-		margin-top:0;
+		margin:0;
+		padding:0;
+		margin-top: -100px;
+		margin-bottom:-40px;	
 	}
 	.home-access .hacc-img{
 		min-width:100%;
 		margin: auto;
 		text-align: center;
-		margin:0;
-		padding:0;
 	}
 	.home-access .hacc-content{
 		min-width:100%;
 		margin: auto;
 		text-align: center;
-		margin:0;
-		padding:0;
 	}
 	.home-access .hacc-img img{
 		max-width: 100%;
 		width: auto;
 		margin:0;
-		padding-top: 1px;
 	}
 	.home-access .hacc-content h4{
 		color:#262626 !important;
-		padding-top: 1px;
+		padding-top: 17px;
 		font-size: 20px;
 		line-height: normal;
 	}
