@@ -519,8 +519,8 @@ border-color: #285e8e;
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 	.home-rate{
-		padding-top: 80px;
-		padding-bottom: 30px;
+		padding-top: 60px;
+		padding-bottom: 0px;
 		margin:0; 
 	}
 	.home-rate .hr-card{
