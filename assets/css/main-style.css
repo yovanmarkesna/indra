@@ -321,8 +321,8 @@ border-color: #285e8e;
 	.home-hero .hero-img img{
 	  max-width: 100%;
 	  height: auto;
-	  padding: 20px !important;
-	  margin:20px !important;
+	  padding: 0px !important;
+	  margin: 0px !important;
 	}
 	.home-hero .hero-content .hero-text .break-line:before{
 		content: "\A";
