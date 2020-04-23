@@ -372,7 +372,6 @@ border-color: #285e8e;
 	.home-hero .hero-content .get-started{
 	  font-size: 11px;
 	  padding: .3rem 1.0rem;
-	  margin-bottom: 0px;
 	}
 	.home-hero .get-started:hover, .home-hero .get-started:focus, .home-hero .get-started:active {
 	  color: #285e8e !important;
