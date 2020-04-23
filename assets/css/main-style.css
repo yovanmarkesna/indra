@@ -523,10 +523,13 @@ border-color: #285e8e;
 		margin:0; 
 	}
 	.home-rate .hr-card:last-of-type{
-		margin-bottom: -10px;
+		margin-bottom: -20px;
 	}
 	.home-rate .hr-card{
 		padding-bottom: 25px;
+	}
+	.home-rate .hr-content .hr-body p{
+		font-size:normal;
 	}
 	.home-rate .hr-content .hr-img{
 		padding-right: 10px !important;
