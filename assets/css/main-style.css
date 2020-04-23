@@ -670,8 +670,8 @@ border-color: #285e8e;
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 	.home-about{
 		background-color: #2F569B !important; /* Seconday (BIRU) */
-		padding-bottom:25px;
-		padding-top:-500px;
+		padding-bottom:10px;
+		padding-top:0px;
 		margin-bottom:0;
 		margin-top:0;
 	}
