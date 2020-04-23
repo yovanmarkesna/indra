@@ -673,6 +673,8 @@ border-color: #285e8e;
 	.home-about .ha-content{
 		padding-bottom:0;
 		text-align: right;
+		margin-bottom:-30px;
+		margin-top:-30px;
 	}
 	.home-about .ha-img img{
 		max-width: 90%;
@@ -690,7 +692,7 @@ border-color: #285e8e;
 		color: #F3F3F3 !important;
 		font-size: normal;
 		line-height: normal;
-		padding-top: 4px;
+		padding-top: 5px;
 		padding-bottom: 2px;
 	}
 	.home-about .ha-content .ha-more{
