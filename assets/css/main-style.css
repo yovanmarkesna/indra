@@ -1233,8 +1233,8 @@ border-color: #285e8e;
 		background-color: #F3F3F3 !important; /* Highlight */
 		margin:0;
 		padding:0;
-		margin-top: -60px;
-		margin-bottom:-20px;	
+		margin-top: -40px;
+		margin-bottom: 25px;	
 	}
 	.home-access .hacc-img{
 		min-width:100%;
@@ -1250,10 +1250,11 @@ border-color: #285e8e;
 		max-width: 100%;
 		width: auto;
 		margin:0;
+		padding:0;
 	}
 	.home-access .hacc-content h4{
 		color:#262626 !important;
-		padding-top: 17px;
+		padding-top: 7px;
 		font-size: 20px;
 		line-height: normal;
 	}
