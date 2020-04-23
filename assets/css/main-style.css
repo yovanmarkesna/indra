@@ -976,13 +976,13 @@ border-color: #285e8e;
 		margin:0;
 	}
 	.home-help .hh-img img{
-		max-width: 110%;
+		max-width: 90%;
 		width: auto;
-		padding-top:5px;
+		padding-top:15px;
 	}
 	.home-help .hh-content h4{
 		color: #F3F3F3 !important;
-		padding-top: 150px;
+		padding-top: 25px;
 		font-size: 20px;
 		line-height: normal;
 	}
