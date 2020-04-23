@@ -970,22 +970,20 @@ border-color: #285e8e;
 @media only screen and (min-width: 576px) and (max-width: 767px) {
 	.home-help{
 		background-color: #EFBB29 !important; /* Primary (KUNING) */
-		padding-bottom:10px;
-		padding-top:-100px;
-		margin-bottom:0;
-		margin-top:0;
 	}
 	.home-help .hh-content{
+		padding:0;
+		margin:0;
 		text-align: left;
 	}
 	.home-help .hh-img img{
 		max-width: 100%;
 		width: auto;
-		padding-left: 10px;
-		padding-top:0px;
+		padding-top:15px;
 	}
 	.home-help .hh-content h4{
 		color: #F3F3F3 !important;
+		padding-top: 0px;
 		font-size: 20px;
 		line-height: normal;
 	}
