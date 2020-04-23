@@ -984,17 +984,17 @@ border-color: #285e8e;
 	}
 	.home-help .hh-content h4{
 		color: #F3F3F3 !important;
-		padding-top: 0px;
 		font-size: 20px;
 		line-height: normal;
+		padding-top: 0px;
 	}
 	.home-help .hh-content .hh-text{
-		text-align: left;
 		color: #F3F3F3 !important;
 		font-size: 15px;
 		line-height: normal;
 		padding-top: 5px;
 		padding-bottom: 7px;
+		text-align: left;
 	}
 	.home-help .hh-content .hh-more{
 		font-size: 15px;
