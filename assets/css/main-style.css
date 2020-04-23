@@ -504,7 +504,8 @@ border-color: #285e8e;
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.home-rate{
 		padding-top: 100px;
-		padding-bottom: 55px;		
+		padding-bottom: 55px;
+	
 	}
 	.home-rate .hr-card{
 		padding-right: 30px;
@@ -520,7 +521,7 @@ border-color: #285e8e;
 	.home-rate{
 		padding-top: 60px;
 		padding-bottom: 0px;
-		margin:0; 
+		margin-bottom: -20px;	
 	}
 	.home-rate .hr-card{
 		padding-bottom: 25px;
@@ -673,8 +674,8 @@ border-color: #285e8e;
 	.home-about .ha-content{
 		padding-bottom:0;
 		text-align: right;
-		margin-bottom:-30px;
-		margin-top:-30px;
+		margin-bottom:-25px;
+		margin-top:-25px;
 	}
 	.home-about .ha-img img{
 		max-width: 90%;
