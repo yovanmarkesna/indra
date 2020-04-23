@@ -766,6 +766,10 @@ border-color: #285e8e;
 		content: "\A";
 		white-space: normal;
 	}
+	.home-about .ha-content .ha-title .break-line:before{
+		content: "\A";
+		white-space: normal;
+	}
 }
 
 
