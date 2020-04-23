@@ -674,13 +674,13 @@ border-color: #285e8e;
 	.home-about .ha-content{
 		padding-bottom:0;
 		text-align: right;
-		margin-bottom:-25px;
+		margin-bottom:-20px;
 		margin-top:-25px;
 	}
 	.home-about .ha-img img{
 		max-width: 90%;
 		width: auto;
-		padding-top: 25px;
+		padding-top: 15px;
 		padding-right: 10px;
 	}
 	.home-about .ha-content h4{
