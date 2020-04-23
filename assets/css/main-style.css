@@ -1240,17 +1240,21 @@ border-color: #285e8e;
 		min-width:100%;
 		margin: auto;
 		text-align: center;
+		margin:0;
+		padding:0;
 	}
 	.home-access .hacc-content{
 		min-width:100%;
 		margin: auto;
 		text-align: center;
+		margin:0;
+		padding:0;
 	}
 	.home-access .hacc-img img{
 		max-width: 100%;
 		width: auto;
 		margin:0;
-		padding:0;
+		padding-top: 1px;
 	}
 	.home-access .hacc-content h4{
 		color:#262626 !important;
