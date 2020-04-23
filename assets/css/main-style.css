@@ -684,17 +684,17 @@ border-color: #285e8e;
 		padding-top: 25px;
 		color: red !important;
 		font-size: 17px;
-		line-height: 20px;
+		line-height: normal;
 	}
 	.home-about .ha-content .ha-text{
 		color: #F3F3F3 !important;
-		font-size: 11px;
-		line-height: 15px;
+		font-size: normal;
+		line-height: normal;
 		padding-top: 4px;
 		padding-bottom: 0;
 	}
 	.home-about .ha-content .ha-more{
-		font-size: 11px;
+		font-size: normal;
 		padding: .4rem 1.2rem;
 		border-width: .06rem;
 		border-color: #F3F3F3;
@@ -750,7 +750,7 @@ border-color: #285e8e;
 	.home-about .ha-content .ha-more{
 		font-size: normal;
 		padding: .3rem 1.2rem;
-		border-width: .8rem;
+		border-width: .1rem;
 		border-color: #F3F3F3 !important;
 		background-color: #2F569B !important; /* Seconday (BIRU) */
 	}
