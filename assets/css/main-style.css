@@ -681,7 +681,7 @@ border-color: #285e8e;
 	.home-about .ha-img img{
 		max-width: 100%;
 		width: auto;
-
+		padding-right: 10px;
 		padding-top:20px;
 	}
 	.home-about .ha-content h4{
@@ -1022,6 +1022,10 @@ border-color: #285e8e;
 @media (max-width: 575px) {
 	.home-help{
 		background-color: #EFBB29 !important; /* Primary (KUNING) */
+		padding-bottom:25px;
+		padding-top:5px;
+		margin-bottom:0;
+		margin-top:0;
 	}
 	.home-help .hh-img{
 		min-width:100%;
@@ -1037,22 +1041,18 @@ border-color: #285e8e;
 		max-width: 65%;
 		height: auto;
 		margin:0;
-		padding-top: 12px;
-		padding-bottom: 50px;
 	}
 	.home-help .hh-content h4{
-		padding-top: 10px;
 		color: #F3F3F3 !important;
 		font-size: 20px;
 		line-height: normal;
 	}
 	.home-help .hh-content .hh-text{
-		text-align: center;
 		color:#F3F3F3 !important;
 		font-size: 15px;
 		line-height: normal;
-		padding-top: 3px;
-		padding-bottom: 3px;
+		padding-top: 5px;
+		padding-bottom: 7px;
 	}
 	.home-help .hh-content .hh-more{
 		font-size: 15px;
