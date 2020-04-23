@@ -678,7 +678,7 @@ border-color: #285e8e;
 		margin-top:-25px;
 	}
 	.home-about .ha-img img{
-		max-width: 90%;
+		max-width: 100%;
 		width: auto;
 		padding-top: 15px;
 		padding-right: 10px;
@@ -694,7 +694,7 @@ border-color: #285e8e;
 		font-size: 15px;
 		line-height: normal;
 		padding-top: 5px;
-		padding-bottom: 2px;
+		padding-bottom: 3px;
 	}
 	.home-about .ha-content .ha-more{
 		font-size: 15px;
