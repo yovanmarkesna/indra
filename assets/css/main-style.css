@@ -1250,11 +1250,11 @@ border-color: #285e8e;
 		max-width: 100%;
 		width: auto;
 		margin:0;
-		padding-top:0px;
+		padding:0;
 	}
 	.home-access .hacc-content h4{
 		color:#262626 !important;
-		padding-top: 17px;
+		padding-top: 1px;
 		font-size: 20px;
 		line-height: normal;
 	}
