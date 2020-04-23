@@ -730,7 +730,7 @@ border-color: #285e8e;
 	.home-about .ha-content h4{
 		padding-top: 10px;
 		color: #F3F3F3 !important;
-		font-size: 18px;
+		font-size: 17px;
 		line-height: 20px;
 	}
 	.home-about .ha-content .ha-text{
@@ -742,7 +742,7 @@ border-color: #285e8e;
 	}
 	.home-about .ha-content .ha-more{
 		font-size: normal;
-		padding: .2rem 0.8rem;
+		padding: .3rem 1.2rem;
 		border-width: .05rem;
 		border-color: #F3F3F3 !important;
 		background-color: #2F569B !important; /* Seconday (BIRU) */
