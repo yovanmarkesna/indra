@@ -1230,6 +1230,8 @@ border-color: #285e8e;
 
 @media (max-width: 575px) {
 	.home-access{
+		margin:0;
+		padding:0;		
 		background-color: #F3F3F3 !important; /* Highlight */
 		padding-bottom:25px;
 		padding-top:5px;
