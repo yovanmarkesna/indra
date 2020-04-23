@@ -1022,7 +1022,7 @@ border-color: #285e8e;
 @media (max-width: 575px) {
 	.home-help{
 		background-color: #EFBB29 !important; /* Primary (KUNING) */
-		padding-bottom:50px;
+		padding-bottom:45px;
 		padding-top:0px;
 		margin-bottom:0;
 		margin-top:0;
