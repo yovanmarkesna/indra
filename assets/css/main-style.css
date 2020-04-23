@@ -880,6 +880,7 @@ border-color: #285e8e;
     background-position: top center;
     background-size: contain;
     height: 120px;
+	border:1px solid red;
 }
 
 .home-help{
