@@ -885,6 +885,7 @@ border-color: #285e8e;
 
 .home-help{
 	background-color: #EFBB29 !important; /* Primary (KUNING) */
+	border:1px solid black;
 }
 .home-help .hh-img img{
 	max-width: 100%;
