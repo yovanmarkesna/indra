@@ -1049,6 +1049,7 @@ border-color: #285e8e;
 		line-height: normal;
 	}
 	.home-help .hh-content .hh-text{
+		text-align: center;
 		color:#F3F3F3 !important;
 		font-size: 15px;
 		line-height: normal;
