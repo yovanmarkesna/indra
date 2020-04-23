@@ -511,6 +511,10 @@ border-color: #285e8e;
 		padding-right: 30px;
 		padding-bottom: 30px;
 	}
+	.home-rate .hr-content .hr-img{
+		padding-right: 10px !important;
+		margin-top: -3px;
+	}
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -521,6 +525,10 @@ border-color: #285e8e;
 	}
 	.home-rate .hr-card{
 		padding-bottom: 25px;
+	}
+	.home-rate .hr-content .hr-img{
+		padding-right: 10px !important;
+		margin-top: -3px;
 	}
 }
 
@@ -538,6 +546,7 @@ border-color: #285e8e;
 	}
 	.home-rate .hr-content .hr-img{
 		padding-right: 10px !important;
+		margin-top: -3px;
 	}
 }
 
