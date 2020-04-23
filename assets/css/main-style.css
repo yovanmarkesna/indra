@@ -680,13 +680,13 @@ border-color: #285e8e;
 		text-align: right;
 	}
 	.home-about .ha-img img{
-		max-width: 90%;
+		max-width: 100%;
 		width: auto;
-		padding-top: 15px;
+		padding-top: 25px;
 		padding-right: 10px;
 	}
 	.home-about .ha-content h4{
-		padding-top: 35px;
+		padding-top: 25px;
 		color: #F3F3F3 !important;
 		font-size: 20px;
 		line-height: normal;
