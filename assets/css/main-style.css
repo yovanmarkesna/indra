@@ -730,8 +730,8 @@ border-color: #285e8e;
 	.home-about .ha-content h4{
 		padding-top: 10px;
 		color: #F3F3F3 !important;
-		font-size: 17px;
-		line-height: 20px;
+		font-size: 16px;
+		line-height: normal;
 	}
 	.home-about .ha-content .ha-text{
 		color:#F3F3F3 !important;
@@ -748,7 +748,7 @@ border-color: #285e8e;
 		background-color: #2F569B !important; /* Seconday (BIRU) */
 	}
 	.home-about .ha-more:hover, .home-about .ha-more:focus, .home-about .ha-more:active {
-		color: #285e8e !important;
+		color: #2F569B !important;
 		background-color: #F3F3F3;
 		border-color: #F3F3F3;
 	}
