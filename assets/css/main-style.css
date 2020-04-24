@@ -1299,7 +1299,6 @@ border-color: #285e8e;
     background-position: top;
     background-size: contain;
     height: 120px;
-	border:1px solid red;
 }
 .joinus-down{
 	background-image: url('../img/material/Vector-8-edit.png');
@@ -1308,12 +1307,10 @@ border-color: #285e8e;
     background-position: top;
     background-size: contain;
     height: 120px;
-	border:1px solid red;
 }
 
 .joinus-section{
   background-color: #E7E7E7 !important;
-  border:1px solid red;
 }
 .joinus-section .joinus-content{
 	margin:0;
@@ -1392,7 +1389,6 @@ border-color: #285e8e;
 	.joinus-section .joinus-content{
 		margin:0;
 		padding: 0px 0 80px 0 !important;
-		border:1px solid #000;
 	}
 	.joinus-section .joinus-img img{
 	  max-width: 90%;
