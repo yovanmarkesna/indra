@@ -1105,7 +1105,7 @@ border-color: #285e8e;
 .home-access .hacc-content h4{
 	font-size:25px;
 	color: #262626 !important;
-	padding-top: 80px !important;
+	padding-top: 80px;
 }
 .home-access .hacc-content .hacc-text{
 	font-family: 'Circular Std Book';
