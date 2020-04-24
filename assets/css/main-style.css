@@ -1233,8 +1233,9 @@ border-color: #285e8e;
 		background-color: #F3F3F3 !important; /* Highlight */
 		margin:0;
 		padding:0;
-		margin-top: -100px;
-		padding-bottom: 40px;	
+		margin-top: -50px;
+		padding-bottom: 40px;
+		border: 1px solid red;
 	}
 	.home-access .hacc-img{
 		min-width:100%;
