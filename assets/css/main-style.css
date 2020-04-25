@@ -1294,7 +1294,6 @@ border-color: #285e8e;
 
 
 
-
 /* -------------------------------------------------------------- 
 # Join Section
  -------------------------------------------------------------- */
@@ -1414,10 +1413,6 @@ border-color: #285e8e;
 
 
 
-
-
-
-
 /* -------------------------------------------------------------- 
 # Footer Section
  -------------------------------------------------------------- */
@@ -1498,7 +1493,6 @@ border-color: #285e8e;
 }
 	
 
-
 /* -------------------------------------------------------------- 
 # Reserved Section
  -------------------------------------------------------------- */
@@ -1511,5 +1505,148 @@ border-color: #285e8e;
 	padding-top: 20px;
 	padding-bottom: 40px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------------------------------------------------------------------------------
+- ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES -
+- ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES -
+- ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES -
+- ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES -
+- ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES - ABOUT PAGES -
+---------------------------------------------------------------------------------- */
+
+
+/* -------------------------------------------------------------- 
+# ABOUT Hero 
+ -------------------------------------------------------------- */
+.ah-down{
+	background-image: url('../img/material/vector-1-about-down.png');
+	background-color: #F3F3F3;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: contain;
+    height: 170px;
+	margin-top:-30px;
+}
+.about-hero{
+	background: #F3F3F3;
+	margin:0px;
+	padding:0px;
+}
+.about-hero .ah-content{
+	text-align:left;
+}
+.about-hero .ah-img{
+	text-align:right;
+}
+.about-hero .ah-content h1 {
+  font-family: 'Circular Std Black';
+  color:#262626 !important;
+  line-height: 48px;
+  padding-top: 80px;
+  padding-bottom: 7px;
+}
+.about-hero .ah-content .ah-text {
+  font-family: 'Circular Std Book';
+  color:#262626 !important;
+  font-size: 15px;
+  line-height: 20px;
+}
+.about-hero .ah-img img{
+  max-width: 85%;
+  height: auto;
+  padding-top: 50px;
+}
+.about-hero .ah-content .ah-text .break-line:before{
+	content: "\A";
+	white-space: pre-line;
+}
+
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+	.ah-down{
+		background-image: url('../img/material/vector-1-about-down.png');
+		background-color: #F3F3F3;
+		background-repeat: no-repeat;
+		background-position: bottom center;
+		background-size: contain;
+		height: 170px;
+		margin-top:-30px;
+	}
+	.about-hero{
+		background: #F3F3F3;
+		margin:0px;
+		padding:0px;
+	}
+	.about-hero .ah-content{
+		text-align:left;
+	}
+	.about-hero .ah-img{
+		text-align:right;
+	}
+	.about-hero .ah-content .kominfo{
+	  padding-top: 0px !important;
+	  padding-bottom: 0px;
+	  margin:0;
+	}
+	.about-hero .ah-content .kominfo img{
+	  max-height: 50px;
+	  width: auto;
+	}
+	.about-hero .ah-content h1 {
+	  font-family: 'Circular Std Black';
+	  color:#262626 !important;
+	  font-size: 2.0rem;
+	  line-height:normal;
+	  margin-bottom: 8px;
+	}
+	.about-hero .ah-content .ah-text {
+	  font-size: 12px;
+	  line-height: 18px;
+	  margin-bottom : 15px;
+	}
+	.about-hero .ah-content .get-started{
+	  font-size: 12px;
+	  padding: .5rem 1.6rem;
+	  margin-bottom: 3px;
+	}
+	.about-hero .get-started:hover, .about-hero .get-started:focus, .about-hero .get-started:active {
+	  color: #285e8e !important;
+	  background-color: #F3F3F3;
+	  border-color: #285e8e; 
+	}
+	.about-hero .icon-section{
+	  padding-right: 3px;
+	  max-height: 35px;
+	  width: auto;
+	}
+	.about-hero .ah-img img{
+	  max-width: 100%;
+	  height: auto;
+	  padding: 20px !important;
+	  margin:20px !important;
+	}
+	.about-hero .ah-content .ah-text .break-line:before{
+		content: "\A";
+		white-space: pre-line;
+	}
+}
+
+
+
+
+
+
 
 
