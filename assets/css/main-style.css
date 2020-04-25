@@ -1673,14 +1673,17 @@ border-color: #285e8e;
 		background-size: contain;
 		height: 50px;
 	}
+	.about-hero{
+		margin-top:-20px;
+	}
 	.about-hero .ah-content{
-		min-width:65%;
-		max-width:65%;
+		min-width:60%;
+		max-width:60%;
 		text-align: left;
 	}
 	.about-hero .ah-img{
-		min-width:35%;
-		max-width:35%;
+		min-width:40%;
+		max-width:40%;
 		text-align: left;
 	}
 	
