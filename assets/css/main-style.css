@@ -1673,14 +1673,16 @@ border-color: #285e8e;
 		background-size: contain;
 		height: 120px;
 	}
-	.about-hero .ha-img{
-		min-width:70%;
-		margin: auto;
+	.about-hero .ah-img{
+		float:left;
+		min-width:65%;
+		padding:5px;
 		text-align: right;
 	}
-	.about-hero .ha-content{
-		min-width:30%;
-		margin: auto;
+	.about-hero .ah-content{
+		float:right;
+		min-width:25%;
+		padding:5px;
 		text-align: left;
 	}
 	
@@ -1700,7 +1702,7 @@ border-color: #285e8e;
 		line-height: 18px;
 	}
 	.about-hero .ah-img img{
-		max-width: 70%;
+		max-width: 50%;
 		height: auto;
 		padding-top: 20px;
 	}
