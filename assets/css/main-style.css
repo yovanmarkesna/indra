@@ -1673,16 +1673,13 @@ border-color: #285e8e;
 		background-size: contain;
 		height: 120px;
 	}
-	.about-hero{
-		background: #F3F3F3;
-	}
-	.home-about div.ha-img{
-		min-width:70% !important;
+	.home-about .ha-img{
+		min-width:70%;
 		margin: auto;
 		text-align: right;
 	}
-	.home-about div.ha-content{
-		min-width:30% !important;
+	.home-about .ha-content{
+		min-width:30%;
 		margin: auto;
 		text-align: left;
 	}
