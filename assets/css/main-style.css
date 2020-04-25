@@ -1676,12 +1676,12 @@ border-color: #285e8e;
 	.about-hero{
 		background: #F3F3F3;
 	}
-	.home-about .ha-img{
+	.home-about div.ha-img{
 		min-width:70% !important;
 		margin: auto;
 		text-align: right;
 	}
-	.home-about .ha-content{
+	.home-about div.ha-content{
 		min-width:30% !important;
 		margin: auto;
 		text-align: left;
