@@ -1677,8 +1677,6 @@ border-color: #285e8e;
 		background: #F3F3F3;
 	}
 	.about-hero .ah-content{
-		margin:0px;
-		padding:0px;
 		text-align:left;
 	}
 	.about-hero .ah-img{
@@ -1687,7 +1685,7 @@ border-color: #285e8e;
 	.about-hero .ah-content h1 {
 		font-family: 'Circular Std Black';
 		color:red !important;
-		font-size: 25px;
+		font-size: 20px;
 		line-height:normal;
 		padding-top: 0px;
 		padding-bottom: 5px;
@@ -1695,13 +1693,13 @@ border-color: #285e8e;
 	.about-hero .ah-content .ah-text {
 		font-family: 'Circular Std Book';
 		color:#262626 !important;
-		font-size: 15px;
+		font-size: 12px;
 		line-height: 18px;
 	}
 	.about-hero .ah-img img{
-		max-width: 100%;
+		max-width: 90%;
 		height: auto;
-		padding-left:30px;
+		margin:0px;
 		padding-top: 20px;
 	}
 	.about-hero .ah-content .ah-text .break-line:before{
