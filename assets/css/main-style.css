@@ -1635,6 +1635,7 @@ border-color: #285e8e;
 		margin:0px;
 		padding:0px;
 		text-align:left;
+		padding-right:30px;
 	}
 	.about-hero .ah-img{
 		text-align:right;
@@ -1656,7 +1657,7 @@ border-color: #285e8e;
 	.about-hero .ah-img img{
 		max-width: 100%;
 		height: auto;
-		padding-left:30px;
+		
 		padding-top: 20px;
 	}
 	.about-hero .ah-content .ah-text .break-line:before{
