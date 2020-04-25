@@ -1673,12 +1673,12 @@ border-color: #285e8e;
 		background-size: contain;
 		height: 120px;
 	}
-	.home-about .ha-img{
+	.about-hero .ha-img{
 		min-width:70%;
 		margin: auto;
 		text-align: right;
 	}
-	.home-about .ha-content{
+	.about-hero .ha-content{
 		min-width:30%;
 		margin: auto;
 		text-align: left;
