@@ -1671,38 +1671,35 @@ border-color: #285e8e;
 		background-repeat: no-repeat;
 		background-position: bottom center;
 		background-size: contain;
-		height: 120px;
-	}
-	.about-hero .ah-img{
-		float:left;
-		min-width:65%;
-		padding:5px;
-		text-align: right;
+		height: 50px;
 	}
 	.about-hero .ah-content{
-		float:right;
-		min-width:25%;
-		padding:5px;
+		min-width:65%;
+		max-width:65%;
+		text-align: left;
+	}
+	.about-hero .ah-img{
+		min-width:35%;
+		max-width:35%;
 		text-align: left;
 	}
 	
-
 	.about-hero .ah-content h1 {
 		font-family: 'Circular Std Black';
 		color:red !important;
 		font-size: 20px;
 		line-height:normal;
 		padding-top: 0px;
-		padding-bottom: 5px;
+		padding-bottom: 3px;
 	}
 	.about-hero .ah-content .ah-text {
 		font-family: 'Circular Std Book';
 		color:#262626 !important;
-		font-size: 12px;
+		font-size: 14px;
 		line-height: 18px;
 	}
 	.about-hero .ah-img img{
-		max-width: 50%;
+		max-width: 90%;
 		height: auto;
 		padding-top: 20px;
 	}
