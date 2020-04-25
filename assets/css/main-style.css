@@ -1676,12 +1676,18 @@ border-color: #285e8e;
 	.about-hero{
 		background: #F3F3F3;
 	}
-	.about-hero .ah-content{
-		text-align:left;
+	.home-about .ha-img{
+		min-width:70% !important;
+		margin: auto;
+		text-align: right;
 	}
-	.about-hero .ah-img{
-		text-align:right;
+	.home-about .ha-content{
+		min-width:30% !important;
+		margin: auto;
+		text-align: left;
 	}
+	
+
 	.about-hero .ah-content h1 {
 		font-family: 'Circular Std Black';
 		color:red !important;
@@ -1697,9 +1703,8 @@ border-color: #285e8e;
 		line-height: 18px;
 	}
 	.about-hero .ah-img img{
-		max-width: 90%;
+		max-width: 70%;
 		height: auto;
-		margin:0px;
 		padding-top: 20px;
 	}
 	.about-hero .ah-content .ah-text .break-line:before{
