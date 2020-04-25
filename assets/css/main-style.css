@@ -1650,7 +1650,7 @@ border-color: #285e8e;
 	.about-hero .ah-content .ah-text {
 		font-family: 'Circular Std Book';
 		color:#262626 !important;
-		font-size: 14px;
+		font-size: 15px;
 		line-height: 18px;
 	}
 	.about-hero .ah-img img{
@@ -1665,7 +1665,51 @@ border-color: #285e8e;
 	}
 }
 
-
+@media (max-width: 576px) {
+	.ah-down{
+		background-image: url('../img/material/vector-1-about-down.png');
+		background-color: #F3F3F3;
+		background-repeat: no-repeat;
+		background-position: bottom center;
+		background-size: contain;
+		height: 120px;
+	}
+	.about-hero{
+		background: #F3F3F3;
+	}
+	.about-hero .ah-content{
+		margin:0px;
+		padding:0px;
+		text-align:left;
+	}
+	.about-hero .ah-img{
+		text-align:right;
+	}
+	.about-hero .ah-content h1 {
+		font-family: 'Circular Std Black';
+		color:red !important;
+		font-size: 25px;
+		line-height:normal;
+		padding-top: 0px;
+		padding-bottom: 5px;
+	}
+	.about-hero .ah-content .ah-text {
+		font-family: 'Circular Std Book';
+		color:#262626 !important;
+		font-size: 15px;
+		line-height: 18px;
+	}
+	.about-hero .ah-img img{
+		max-width: 100%;
+		height: auto;
+		padding-left:30px;
+		padding-top: 20px;
+	}
+	.about-hero .ah-content .ah-text .break-line:before{
+		content: "\A";
+		white-space: normal;
+	}
+}
 
 
 
