@@ -1695,6 +1695,7 @@ border-color: #285e8e;
 		height: auto;
 		padding-top: 0px;
 		margin:0;
+		border:1px solid red;
 	}
 	.about-hero .ah-content h1 {
 		font-family: 'Circular Std Black';
