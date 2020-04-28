@@ -1693,10 +1693,12 @@ border-color: #285e8e;
 		height: auto;
 		padding: 0px;
 		margin-top:-20px;
+
 	}
 	.about-hero .ah-content h1 {
 		font-family: 'Circular Std Black';
-		color:red !important;
+		font-weight: bold;
+		color:#262626 !important;
 		text-align: center;
 		font-size: 30px;
 		line-height: normal;
