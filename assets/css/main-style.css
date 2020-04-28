@@ -1675,10 +1675,8 @@ border-color: #285e8e;
 		border:1px solid red;
 	}
 	.about-hero{
-		padding-bottom:0px;
-		padding-top:0px;
-		margin-bottom:0;
-		margin-top:0;
+		padding:0px;
+		margin:0;
 	}
 	.about-hero .ah-content{
 		min-width:100%;
@@ -1694,7 +1692,7 @@ border-color: #285e8e;
 		max-width: 70%;
 		height: auto;
 		padding-top: 0px;
-		margin:0;
+		margin-top:-20px;
 		border:1px solid red;
 	}
 	.about-hero .ah-content h1 {
@@ -1704,7 +1702,7 @@ border-color: #285e8e;
 		font-size: 30px;
 		line-height: normal;
 		padding-top: 0px;
-		padding-bottom: 3px;
+		padding-bottom: 10px;
 	}
 	.about-hero .ah-content .ah-text {
 		font-family: 'Circular Std Book';
@@ -1712,7 +1710,6 @@ border-color: #285e8e;
 		text-align: center;
 		font-size: normal;
 		line-height: normal;
-		padding: 0px;
 		margin:0;
 	}
 	.about-hero .ah-content .ah-text .break-line:before{
