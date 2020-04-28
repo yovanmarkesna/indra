@@ -1691,9 +1691,8 @@ border-color: #285e8e;
 	.about-hero .ah-img img{
 		max-width: 70%;
 		height: auto;
-		padding-top: 0px;
+		padding: 0px;
 		margin-top:-20px;
-		border:1px solid red;
 	}
 	.about-hero .ah-content h1 {
 		font-family: 'Circular Std Black';
