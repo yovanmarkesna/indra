@@ -584,6 +584,9 @@ border-color: #285e8e;
 .home-about .ha-content{
 	text-align: right;
 }
+.home-about .ha-img{
+	text-align: right;
+}
 .home-about .ha-img img{
 	max-width: 75%;
 	height: auto;
@@ -1528,7 +1531,7 @@ border-color: #285e8e;
 
 
 /* -------------------------------------------------------------- 
-# ABOUT Hero 
+# ABOUT HERO (First thing you should know about us.)
  -------------------------------------------------------------- */
 .ah-down{
 	background-image: url('../img/material/vector-1-about-down.png');
@@ -1538,9 +1541,11 @@ border-color: #285e8e;
     background-size: contain;
     height: 170px;
 	margin-top:-30px;
+	border:1px solid red;
 }
 .about-hero{
 	background: #F3F3F3;
+	border:1px solid #000;
 }
 .about-hero .ah-content{
 	text-align:left;
@@ -1672,7 +1677,6 @@ border-color: #285e8e;
 		background-position: bottom center;
 		background-size: contain;
 		height: 90px;
-		border:1px solid red;
 	}
 	.about-hero{
 		padding:0px;
@@ -1725,16 +1729,250 @@ border-color: #285e8e;
 }
 
 
+
 /* -------------------------------------------------------------- 
-# ABOUT Hero 
+# ABOUT ASSET (Buy digital asset in easy way)
+ -------------------------------------------------------------- */
+ .about-asset{
+	background-color: #E7E7E7 !important; /* Smoke (BACKGROUND) */
+	padding-top:40px;
+	padding-bottom:40px;
+	border:1px solid #000;
+}
+.about-asset .aa-content{
+	text-align: right;
+}
+.about-asset .aa-img{
+	text-align: left;
+}
+.about-asset .aa-img img{
+	max-width: 70%;
+	height: auto;
+}
+.about-asset .aa-content h4{
+	font-family: 'Circular Std black';
+	color: #262626 !important; /* Black */
+	text-align: right;
+	font-size:28px;
+	padding-top: 50px;
+	padding-bottom:8px;
+}
+.about-asset .aa-content .aa-text{
+	font-family: 'Circular Std Book';
+	color: #262626 !important; /* Black */
+	text-align: right;
+	font-size: normal;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.about-asset .aa-content .break-line:before{
+	content: "\A";
+	white-space: pre-line;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.about-asset{
+		background-color: #E7E7E7 !important; /* Smoke (BACKGROUND) */
+	}
+	.about-asset .aa-content{
+		text-align: right;
+	}
+	.about-asset .aa-img img{
+		max-width: 80%;
+		width: auto;
+		padding-top:15px;
+	}
+	.about-asset .aa-content h4{
+		padding-top: 15px;
+		color: #F3F3F3 !important;
+		font-size: 22px;
+		line-height: 27px;
+	}
+	.about-asset .aa-content .aa-text{
+		color: #F3F3F3 !important;
+		font-size: 13px;
+		line-height: 17px;
+		padding-top: 8px;
+		padding-bottom: 8px;
+	}
+	.about-asset .aa-content .aa-more{
+		font-family: 'Circular Std Book';
+		font-size: 12px;
+		color: #F3F3F3 !important;
+		padding: .3rem 1.6rem;
+		border-width: .1rem;
+		border-color: #F3F3F3;
+		background-color: #2F569B !important; /* Seconday (BIRU) */
+	}
+	.about-asset .aa-more:hover, .about-asset .aa-more:focus, .about-asset .aa-more:active {
+		color: #285e8e !important;
+		background-color: #F3F3F3;
+		border-color: #F3F3F3; 
+	}
+	.about-asset .aa-content .break-line:before{
+		content: "\A";
+		white-space: pre-line;
+	}
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+	.about-asset{
+		background-color: #E7E7E7 !important; /* Smoke (BACKGROUND) */
+		padding-bottom:10px;
+		padding-top:0px;
+		margin-bottom:0;
+		margin-top:0;
+	}
+	.about-asset .aa-content{
+		text-align: right;
+	}
+	.about-asset .aa-img img{
+		max-width: 100%;
+		width: auto;
+		padding-right: 10px;
+		padding-top:20px;
+	}
+	.about-asset .aa-content h4{
+		color: #F3F3F3 !important;
+		font-size: 20px;
+		line-height: normal;
+	}
+	.about-asset .aa-content .aa-text{
+		color: #F3F3F3 !important;
+		font-size: 15px;
+		line-height: normal;
+		padding-top: 5px;
+		padding-bottom: 7px;
+	}
+	.about-asset .aa-content .aa-more{
+		font-size: 15px;
+		padding: .4rem 1.2rem;
+		border-width: .1rem;
+		border-color: #F3F3F3 !important;
+		background-color: #2F569B !important; /* Seconday (BIRU) */
+	}
+	.about-asset .aa-more:hover, .about-asset .aa-more:focus, .about-asset .aa-more:active {
+		color: #2F569B !important;
+		background-color: #F3F3F3 !important;
+		border-color: #F3F3F3 !important;
+	}
+	.about-asset .aa-content .break-line:before{
+		content: "\A";
+		white-space: normal;
+	}
+	.about-asset .aa-content .aa-title .break-line:before{
+		content: "\A";
+		white-space: normal;
+	}
+}
+
+@media (max-width: 575px) {
+	.about-asset{
+		background-color: #E7E7E7 !important; /* Smoke (BACKGROUND) */
+		padding-bottom:25px;
+		padding-top:5px;
+		margin-bottom:0;
+		margin-top:0;
+	}
+	.about-asset .aa-img{
+		min-width:100%;
+		margin: auto;
+		text-align: center;
+	}
+	.about-asset .aa-content{
+		min-width:100%;
+		margin: auto;
+		text-align: center;
+	}
+	.about-asset .aa-img img{
+		max-width: 35%;
+		height: auto;
+		margin:0;
+	}
+	.about-asset .aa-content h4{
+		padding-top: 17px;
+		color: #F3F3F3 !important;
+		font-size: 20px;
+		line-height: normal;
+	}
+	.about-asset .aa-content .aa-text{
+		color:#F3F3F3 !important;
+		font-size: 15px;
+		line-height: normal;
+		padding-top: 5px;
+		padding-bottom: 7px;
+	}
+	.about-asset .aa-content .aa-more{
+		font-size: 15px;
+		padding: .3rem 1.2rem;
+		border-width: .1rem;
+		border-color: #F3F3F3 !important;
+		background-color: #2F569B !important; /* Seconday (BIRU) */
+		border-radius: .4rem !important;
+	}
+	.about-asset .aa-more:hover, .about-asset .aa-more:focus, .about-asset .aa-more:active {
+		color: #2F569B !important;
+		background-color: #F3F3F3 !important;
+		border-color: #F3F3F3 !important;
+	}
+	.about-asset .aa-content .aa-text .break-line:before{
+		content: "\A";
+		white-space: normal;
+	}
+	.about-asset .aa-content .aa-title .break-line:before{
+		content: "\A";
+		white-space: normal;
+	}
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* -------------------------------------------------------------- 
+# ABOUT REPLACE (Replace text that describe your company)
  -------------------------------------------------------------- */
  
- 
- 
- 
- 
- 
- 
- 
+.about-replace-up{
+	/* H: 149 */
+	background-image: url('../img/material/Vector-3-about.png'); 
+	background-color: #E7E7E7 !important; /* Smoke (BACKGROUND) */
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: contain;
+    height: 120px;
+	border:1px solid red;
+}
+.about-replace-down{
+	/* H: 140 */
+	background-image: url('../img/material/Vector-6.png'); 
+	background-color: #F3F3F3 !important; /* Highlight */
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: contain;
+    height: 125px;
+	border:1px solid red;
+}
+
+.about-replace{
+	background-color: #EFBB29 !important; /* Primary (KUNING) */
+}
  
 
