@@ -1709,7 +1709,7 @@ border-color: #285e8e;
 		font-family: 'Circular Std Book';
 		color:#262626 !important;
 		text-align: center;
-		font-size: 15px;
+		font-size: normal;
 		line-height: normal;
 		padding-top: 5px;
 	}
